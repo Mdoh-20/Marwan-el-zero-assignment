@@ -3,24 +3,24 @@
 # yesterday i did not watch any video from this coures
 # and i was working on web scrabing project to my portfilo
 # ---------------------------------------------------------
-# name = input('Enter your name: ').capitalize().strip()
-# # Needed Output
-# print(f'"Hello {name}, Happy To See You Here."')
+name = input('Enter your name: ').capitalize().strip()
+# Needed Output
+print(f'"Hello {name}, Happy To See You Here."')
 
-# print('-' * 50)
+print('-' * 50)
 
-# age = int(input('Enter Your age: '))
-# if age < 16:
-#     print('Hello Your Age Is Under 16, Some Articles Is Not Suitable For You')
-# elif age > 16:
-#     print(f'Hello Your Age Is {age}, All Articles Is Suitable For You')
+age = int(input('Enter Your age: '))
+if age < 16:
+    print('Hello Your Age Is Under 16, Some Articles Is Not Suitable For You')
+elif age > 16:
+    print(f'Hello Your Age Is {age}, All Articles Is Suitable For You')
 
-# print('-' * 50)
+print('-' * 50)
 
-# fname = input('Enter Your First Name: ').strip().capitalize()
-# sname = input('Enter Your Second  Name: ').strip().capitalize()
+fname = input('Enter Your First Name: ').strip().capitalize()
+sname = input('Enter Your Second  Name: ').strip().capitalize()
 
-# print(f"Hello {fname} {sname:.1s}.")
+print(f"Hello {fname} {sname:.1s}.")
 
 print('-' * 50)
 
