@@ -1,6 +1,6 @@
 # ------------------------------------------------------
-# This Is Week 7 Assginment [0] From El Zero Web School
-# This Assginment About loops Spasifcly while Loop
+# This Is Week 7 Assginment [1] From El Zero Web School
+# This Assginment About loops Spasifcly for Loop
 # This Is About Day 8 Or 9 For me In El Zero Web School
 # I Hope I Can Make This Progress Far Awey From Her
 # ------------------------------------------------------
